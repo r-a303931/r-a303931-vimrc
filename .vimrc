@@ -1,6 +1,7 @@
+syntax on
 
 set relativenumber
+set number
 
-
-colorscheme darkblue 
+colorscheme koehler  
 set background=dark
